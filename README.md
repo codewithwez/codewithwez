@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,30&height=200&section=header&text=Wamiq%20Ejaz&fontSize=60&fontColor=9333ea&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,30&height=200&section=header&text=Wamiq%20Ejaz&fontSize=55&fontColor=ffffff&fontType=Auto&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
