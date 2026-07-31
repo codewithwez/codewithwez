@@ -34,7 +34,7 @@ I am a **Computer Science student at Air University Multan** and a passionate **
 * **Databases:** Relational and NoSQL database management using MongoDB Atlas, Mongoose, SQL Server, and Entity Framework Core.
 * **Core Engineering:** Grounded in Object-Oriented Programming (OOP), Data Structures, and MVC Architecture.
 
-> **Open To:** Software Engineering & Full-Stack Development Internships.
+> **Open To:** Software Engineering & Full-Stack Development Roles.
 
 ---
 
@@ -100,17 +100,6 @@ A backend-heavy enterprise web system designed for warden administration and cam
 ### Bachelor of Science in Computer Science
 **Air University, Pakistan**
 * **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Management Systems, Web Engineering, Software Architecture.
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithwez&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithwez&layout=compact&theme=synthwave&hide_border=true" width="48%" alt="Top Languages" />
-
-</div>
 
 ---
 
