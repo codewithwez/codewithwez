@@ -97,7 +97,7 @@ A backend-heavy enterprise web system designed for warden administration and cam
 
 ## 🎓 Education & Background
 
-### Bachelor of Science in Computer Science 2024-2028
+### Bachelor of Science in Computer Science                                                                                2024-2028
 **Air University, Pakistan**
 * **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Management Systems, Web Engineering, Software Architecture.
 
